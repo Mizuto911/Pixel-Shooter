@@ -11,3 +11,8 @@ Resources I used for this Game:
 Background: https://www.reddit.com/r/PixelArt/comments/f1wg26/space_background/#lightbox
 
 SpaceShips: https://opengameart.org/content/spaceships-32x32
+
+## Screenshots
+![GamePreview](Screenshot/ss1.png)
+![GamePreview](Screenshot/ss2.png)
+![GamePreview](Screenshot/ss3.png)
