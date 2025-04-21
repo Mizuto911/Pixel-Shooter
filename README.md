@@ -12,6 +12,9 @@ Background: https://www.reddit.com/r/PixelArt/comments/f1wg26/space_background/#
 
 SpaceShips: https://opengameart.org/content/spaceships-32x32
 
+### Download the Game from here:
+https://mizuto911.itch.io/pixel-shooter
+
 ## Screenshots
 ![GamePreview](Screenshot/ss1.png)
 ![GamePreview](Screenshot/ss2.png)
